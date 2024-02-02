@@ -20,7 +20,7 @@ export const NETWORK_ERROR = "Connect your wallet" //Change network name as requ
 
 export const DOMAIN_TLD = 'id' //primary domain name without dot (.)
 export const DOMAIN_PRICE_ETH = '5' //price should be equal to contract or higher 
-export const DOMAIN_IMAGE_URL = 'https://ipfs.io/ipfs/QmUn6ixnBwbc28T1wfmMVuM8zEFUhENaumvKgYYJQnX6wk' //Image path starts with ipfs:// or https://
+export const DOMAIN_IMAGE_URL = 'https://ipfs.io/ipfs/QmVZo9qYLnYZTMEDbfTXHsjQimoCD9GRstKr6ipePvRWfj' //Image path starts with ipfs:// or https://
 export const DOMAIN_NETWORK_CHAIN = 137 //137 for polygon, 314 for filecoin, 80001 form mumbai
 export const DOMAIN_DESCRIPTION = 'Web3 Domain Name'
 export const DOMAIN_TYPE = "W3D" //W3D for polygon, FVM for Filecoin net
